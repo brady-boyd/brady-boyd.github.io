@@ -1,12 +1,12 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Brady Boyd's Software Portfolio
+description: "The professional software portfolio of Brady Boyd, showcasing past projects, skills, and experience. Discover Brady's transition from sales to software engineering and explore his work."
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Brady Boyd
-user_description: Former sales professional/Fresh software engineering graduate.
+user_description: 
 user_title: Software Engineer
 email: bradysboyd@gmail.com
 twitter_username: lorem_ipsum
